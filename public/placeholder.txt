@@ -1,0 +1,1 @@
+Put static assets (exercise images, icons) here.
